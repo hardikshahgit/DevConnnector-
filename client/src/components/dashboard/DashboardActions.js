@@ -1,6 +1,5 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import {EditProfile} from '../profile-forms/EditProfile';
 
 const DashboardActions = props => {
     return (
